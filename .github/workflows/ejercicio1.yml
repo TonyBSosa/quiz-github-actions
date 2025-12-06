@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Step 1 - Saludo
-        run: echo "Hola, mi nombre es TU NOMBRE COMPLETO"
+        run: echo "Hola, mi nombre es Tony Bladimir Sosa Madrid"
 
       - name: Step 2 - Fecha y hora actual
         run: date
